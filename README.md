@@ -16,16 +16,12 @@ Welcome to my GitHub profile! I'm a DevOps enthisiast, passionate about anything
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sachink100&show_icons=true&hide_title=false)
 
 ## 📝 Blog Posts
-- [Title of Your Blog Post](URL to Your Blog Post)
-- [Title of Another Blog Post](URL to Your Blog Post)
+- https://www.heooz.com/blogs
 
 ## 📂 Projects
-- [Project 1](URL to Project 1)
-- [Project 2](URL to Project 2)
+- Projects go here
 
 ## 🖼️ Gallery
-![Gallery Image 1](URL to Image 1)
-![Gallery Image 2](URL to Image 2)
+![Gallery Image 1](URL to Image)
 
 Thanks for visiting my profile! Feel free to connect with me and check out my repositories.
-
