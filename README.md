@@ -1,6 +1,6 @@
 # Hi there, I'm Sachin Kumar 👋
 
-Welcome to my GitHub profile! I'm a DevOps enthisiast, passionate about anything related to DevOps. Here's a little bit about me and what I'm working on:
+Welcome to my GitHub profile! I'm a DevOps enthusiast, passionate about anything related to DevOps. Here's a little bit about me and what I'm working on:
 
 ## 🚀 About Me
 - 🌱 I’m currently learning AI.
