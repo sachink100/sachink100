@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a DevOps enthisiast, passionate about anything
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sachink100&show_icons=true&hide_title=false)
 
 ## 📝 Blog Posts
-- https://sachinkumar.heooz.com/blogs
+- https://sachinkumar.heooz.com/
 
 ## 📂 Projects
 - Projects go here
